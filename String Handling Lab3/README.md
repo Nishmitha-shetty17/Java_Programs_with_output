@@ -1,6 +1,6 @@
 ### 📝 String Handling
 
-- [String Capitalize Words](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String_Handling_Lab3/zStringCapitalizeWords.png)
+- [String Capitalize Words](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringCapitalizeWords.png)
 - [String Count Occurences](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String_Handling_Lab3/zStringCountOccurences.png)
 - [String Count Words](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String_Handling_Lab3/zStringCountWords.png)
 - [String Operation](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String_Handling_Lab3/zStringOperation1.png)
