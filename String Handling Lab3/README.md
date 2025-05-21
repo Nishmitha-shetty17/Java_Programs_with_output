@@ -3,7 +3,7 @@
 - [String Capitalize Words](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringCapitalizeWords.png)
 - [String Count Occurences](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringCountOccurences.png)
 - [String Count Words](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringCountWords.png)
-- [String Operation](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringOperations.png)
+- [String Operation](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringOperation.png)
 - [String Reverse](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringReverses.png)
 - [String generate Random String](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringgenerateRandomString.png)
 - [String isNullOrEmpty](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/String%20Handling%20Lab3/zStringisNullOrEmpty.png)
