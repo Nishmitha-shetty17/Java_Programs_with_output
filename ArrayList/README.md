@@ -5,4 +5,3 @@
 - [ArrayList Search](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/ArrayList/oArrayListSearch.png)
 - [ArrayList SubList](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/ArrayList/oArrayListSubList.png)
 - [ArrayList Sort](https://github.com/Nishmitha-shetty17/Java_Programs_with_output/blob/main/ArrayList/oArrayListSort.png)
-
